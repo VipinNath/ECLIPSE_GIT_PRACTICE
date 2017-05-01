@@ -8,6 +8,9 @@ public class FirstGitClass {
 		System.out.println("doing it again...");
 		System.out.println("once again");
 
+		SecondClass sc = new SecondClass();
+		sc.display();
+		
 	}
 
 }
